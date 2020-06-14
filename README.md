@@ -5,5 +5,5 @@ This will help to create a product list with member price from Atomy Canada. I f
 You will need your username, password and verification token from a web browser dev tools. Once pasted them in the python script, you will need to run the bash script in order to create a CSV file.
 
 ```
-/atomy_list.sh
+./atomy_list.sh
 ```
